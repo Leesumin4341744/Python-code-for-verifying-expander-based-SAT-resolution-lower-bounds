@@ -3,7 +3,7 @@ Python implementation for generating (n,d)-expander CNFs and verifying resolutio
 
 ------------------------- for C++ 17+
 
-
+```
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -282,3 +282,4 @@ int main() {
     std::cout << "metrics.json 생성 완료" << std::endl;
     return 0;
 }
+```
